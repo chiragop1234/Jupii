@@ -1,0 +1,12 @@
+{
+  "name": "jupyter-lab-setup",
+  "version": "1.0.0",
+  "description": "Node.js script for setting up JupyterLab",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    // Add any dependencies here if needed
+  }
+}
